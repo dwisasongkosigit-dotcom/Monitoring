@@ -1,0 +1,6 @@
+{
+  "name": "TMM/BMA Client Control Center",
+  "description": "Sistem kendali terpadu pekerjaan Accounting & Tax untuk konsultan TMM/BMA",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
